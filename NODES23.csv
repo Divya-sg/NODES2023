@@ -1,0 +1,411 @@
+,case,url,crime,crime_json,crime_details,crime_details_json,victim,victim_json,suspect,suspect_json
+0,"HKLII
+
+
+
+Databases
+
+
+
+Court of First Instance
+
+
+
+[2018] HKCFI 2859
+
+HKSAR V. NGAN WING CHAU
+
+Judgment Information
+
+Date
+
+8 Nov, 2018
+
+Action No.
+
+HCCC105/2017
+
+Neutral Cit.
+
+[2018] HKCFI 2859
+
+Download
+
+MS Word
+
+Judgment
+
+Reading Options
+
+Translation
+
+Toggle Highlight
+
+Case History
+
+HCCC105/2017
+
+HCCC 105/2017
+
+[2018] HKCFI 2859
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF FIRST INSTANCE
+
+CRIMINAL CASE NO 105 OF 2017
+
+-----------------
+
+HKSAR
+
+NGAN Wing-chau
+
+------------------
+
+Before:
+
+Hon P Li J
+
+Date:
+
+8 November 2018 at 10.53 am
+
+Present:
+
+Mr Michael Arthur and David Cheung C W, on fiat, for HKSAR
+
+Mr Steve Chui, instructed by Khoo & Co, assigned by
+ DLA, for the accused
+
+Offence:
+
+(1) Murder (謀殺)
+
+(2) Preventing the lawful burial of a body (阻止合法埋葬屍體)
+
+-------------------------------------------
+
+Transcript of the Audio Recording
+       
+       of the Sentence in the above Case
+
+-------------------------------------------
+
+COURT:
+
+The jury convicted the defendant for one count of murder, contrary to section 2 of the Offence against Persons Ordinance, and another count of preventing the lawful burial of a body against common law.
+
+On 1 May 2016, around 6.45 pm, Madam Chan Sau-wa called her son that she would be back home for dinner. She, however, never returned home. Her son lost contact with her in the next two days. He reported her missing on 3 May 2016. About 13 days later, in the early hours of 14 May 2016, after reviewing the CCTV footages seized from the vicinity, the police decided to raid Iskra Building situated at No 132‑134 Cheung Sha Wan Road. They believed Madam Chan had entered that building sometime after 7 pm on 1 May 2016 and had not left since then.
+
+Eventually, the police broke into Room A, rear block, 2nd Floor of the building where there were bloodstains all over. Meanwhile, another team of police officers discovered that the defendant was climbing along the iron cage outside the flat where Room A was. The defendant jumped down from the 2nd floor and was eventually subdued by the police officers at the platform of the building.
+
+Various CCTV footages revealed that the defendant left and returned to Iskra Building several times in the late evening of 1 May 2016 and early hours of 2 May 2016. In some footages, the defendant was seen carrying a garbage bag or a suitcase. Forensic scientist, Dr Lin, analysed the bloodstains in Room A. She concluded that they belonged to Madam Chan. Dr Lin opined that Madam Chan must have been heavily bleeding when she leaned against the left armrest of a sofa in Room A. The large bloodstain with flow pattern at the inner surface of the armrest of that sofa and the spatter stain at the underside of the lower tray of a coffee table beside the sofa were concrete evidence.
+
+There was also a blood spot on the outer surface of the defendant’s left shoe which was a mixture of blood belonging to Madam Chan and the defendant. The body of Madam Chan was never found.
+
+The defendant was the tenant of Room A. He lived there alone. He claimed that he did not notice any bloodstain in Room A before his arrest. He told lies about his true identity and his whereabouts at the early hours of 2 May 2016. Based on the above, the jury inferred that Madam Chan had died, the defendant had killed her and disposed of her body.
+
+The defendant is 52. He is married. His family is in mainland China. He completed primary education in China. He was convicted of offences including unlawful remaining in Hong Kong, using another’s identity card, and possession of a forged identity card in 1988, 1992, 1994 and 2010. He served various terms of imprisonment and was last released on 23 June 2011. Before this offence, he was employed as a meat cutter in a frozen meat shop at Shek Kip Mei Market.
+
+This is a chilling case. The defendant was ruthless and calculated. He advances no mitigation today. I take it that he has no remorse. He is a repeated offender of immigration offences. His insistence that his lies were justified is repulsive and affront public moral. I have no pity on him. The CCTV surveillance system served its proper function this time. Had it not been for the perseverance of the investigation team, the defendant might have escaped detection. All this bear testimony to the old saying that justice may be slow, but it will come eventually.
+
+For the 1st charge of murder, I sentence the defendant to be imprisoned for life. For the 2nd charge of preventing the lawful burial of a body, the defendant must have dismembered the body of Madam Chan. He did this to cover up his murderous act. The defendant disposed of the body unscrupulously, with no respect at all. This act must have caused grave emotional suffering to the family of Madam Chan. It ranks as the most serious of its kind. I sentence him to 7 years’ imprisonment. I order that both sentences to run concurrently.
+
+Information regarding to this page
+
+Look up this case on
+
+Lawcite
+
+Noteup",https://www.hklii.hk/en/cases/hkcfi/2018/2859,"
+
+{
+  ""crime"": {
+    ""caseid"": ""HCCC105/2017"",
+    ""case_datetime"": ""8 Nov, 2018"",
+    ""location"": ""Iskra Building situated at No 132‑134 Cheung Sha Wan Road"",
+    ""is_remote"": ""No"",
+    ""crime_datetime"": ""1 May 2016, around 6.45 pm"",
+    ""weapon"": ""None"",
+    ""more_killed"": ""No"",
+    ""more_wounded"": ""No"",
+    ""Evidence_collected"": ""Various CCTV footages, bloodstains, blood spot on the outer surface of the defendant’s left shoe, large bloodstain with flow pattern at the inner surface of the armrest of that sofa and the spatter stain at the underside of the lower tray of a coffee table beside the sofa"",
+    ""type"": ""Murder""
+  }
+}",Good,"
+
+{
+  ""crime details"": {
+
+""timeline"":  ""1 May 2016, around 6.45 pm - Madam Chan Sau-wa called her son that she would be back home for dinner. She, however, never returned home. Her son lost contact with her in the next two days. He reported her missing on 3 May 2016. About 13 days later, in the early hours of 14 May 2016, after reviewing the CCTV footages seized from the vicinity, the police decided to raid Iskra Building situated at No 132‑134 Cheung Sha Wan Road. They believed Madam Chan had entered that building sometime after 7 pm on 1 May 2016 and had not left since then."", 
+""judge"": ""Hon P Li J""
+  }
+}",Good,"
+{
+  ""victim"": {
+  ""name"" : ""Madam Chan Sau-wa"",
+  ""age"" : ""unknown"",
+  ""gender"" : ""female"",
+  ""origin"" : ""unknown"",
+  ""marital_status"": ""married"",
+  ""is_ill"": ""unknown"",
+  ""illness_indicators"": ""unknown"",
+  ""on_drugs"": ""unknown"",
+  ""drug_indicators"": ""unknown"",
+  ""is_related"": ""unknown"",
+  ""relationship"": ""unknown"",
+  ""any_employment"": ""unknown"",
+  ""employment_indications"": ""unknown""
+  }
+}",Good,"
+
+{
+  ""suspect"": {
+    ""name"": ""NGAN Wing-chau"",
+    ""age"": 52,
+    ""gender"": ""male"",
+    ""origin"": ""mainland China"",
+    ""marital_status"": ""married"",
+    ""is_ill"": ""unknown"",
+    ""illness_indicators"": [],
+    ""on_drugs"": ""unknown"",
+    ""drug_indicators"": [],
+    ""on_alcohol"": ""unknown"",
+    ""alcohol_indicators"": [],
+    ""employment"": ""yes"",
+    ""employment_indicators"": [""employed as a meat cutter in a frozen meat shop at Shek Kip Mei Market""],
+    ""money_trouble"": ""unknown"",
+    ""money_trouble_indicators"": [],
+    ""has_prior_records"": ""yes"",
+    ""details of prior criminal record"": [""unlawful remaining in Hong Kong, using another’s identity card, and possession of a forged identity card in 1988, 1992, 1994 and 2010""],
+    ""motive"": ""unknown"",
+    ""motive_indicator",Bad
+1,"HKLII
+
+
+
+Databases
+
+
+
+Court of First Instance
+
+
+
+[2016] HKCFI 1974
+
+HKSAR V. JUTTING RURIK GEORGE CATON
+
+Judgment Information
+
+Date
+
+8 Nov, 2016
+
+Action No.
+
+HCCC183/2015
+
+Neutral Cit.
+
+[2016] HKCFI 1974
+
+Download
+
+MS Word
+
+Judgment
+
+Reading Options
+
+Translation
+
+Toggle Highlight
+
+Appeal History
+
+HCCC183/2015
+
+HCCC 183/2015
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF FIRST INSTANCE
+
+CRIMINAL CASE NO 183 OF 2015
+
+-----------------
+
+HKSAR
+
+JUTTING Rurik George Caton
+
+------------------
+
+Before:
+
+DHCJ Stuart-Moore
+
+Date:
+
+8 November 2016 at 3.39 pm
+
+Present:
+
+Mr John Reading, SC, leading Mr John C Dunn,
+
+Ms Cindy Li, Mr Lenny Cheng, SPP (Ag) of the Department 
+						of Justice, for HKSAR
+
+Mr Tim Owen, QC, leading Mr Clive Grossman, SC, Mr Timothy Parker and Mr David Cheung, instructed by Vidler & Co, for the defendant
+
+Offence:
+
+(1) & (2) Murder (謀殺)
+
+(3) Preventing the lawful burial of a body (阻止合法埋葬屍體)
+
+---------------------------------
+
+Transcript of the Audio Recording
+       
+       of the Sentence in the above Case
+
+---------------------------------
+
+COURT: I propose to deal now with sentence and I shall have 
+        quite a lot to say as a result of the point that Mr Owen makes, which 
+		is that this case may in due course be the subject of an application for 
+		transfer to the United Kingdom for sentence.
+
+During this trial, we have been made to dredge the very depths of depravity through the defendant’s descriptions of what he did during the three days of torture which he subjected his first victim to. That is Sumarti Ningsih and that is also before he killed her.
+
+He used cocaine and alcohol to fuel his sadistic fantasies, which he then turned into reality. He used dire threats. Amongst other things he said that he was part of a gang of experts who tortured and killed people and he had done this many times before, and this so terrified that defenceless woman into believing that she would die if she did not allow the defendant to do whatever he wanted that she put up no resistance even to his most depraved acts. No wonder she was scared. She weighed 37 kilogrammes and in those days the defendant was 200 kilogrammes.
+
+At various points in monologues which he recorded on his iPhone, where he described some of the repulsive things he had forced his first victim to do, he described himself as evil and a monster, and neither description is adequate to bring home the true horror of what he did to that woman. The more he hurt her, the more he derived satisfaction from his actions. It seems that when he made a video recording on his iPhone of a very small part of the torture that she had to endure, he did it in order to get an extra thrill from watching it later.
+
+What made this killing even more sinister is that he actually knew and liked the victim from having met her before. Eventually, on 27 October 2014, after those three days of torture, he took nearly five minutes killing her as he cut through her throat and virtually decapitated her in the process.
+
+After this murder, the defendant recorded his thoughts about it on the iPhone. He reported feelings of the enjoyment which he had and said that he had never known this with anything before, and later he told the police that it was at this stage that he realised that this was not going to be a one-off thing and it was something that he would repeat. It had awoken, he said, something in him, and once it was opened, he knew there would be more.
+
+It took only about four days before the defendant went in search of a second victim. His plan was to treat her even more cruelly than his first victim. He had equipped himself with a large number of instruments for torture, including a hammer, nails, plastic ties, pliers, Stanley knife, sandpaper, a gag, ropes and a blow torch, amongst a long list of items that he bought that day from a sex shop and hardware shop costing about $7,000 and, having equipped himself with those items, the defendant went out looking for his second victim just before midnight on 31 October 2014.
+
+In his words to the police, he was searching for prey, and I quote:
+
+“I was in a mode I can only describe as hunting. I was hunting for prey. I presumed I would have to hurt her quite badly. She was an innocent girl and I was about to do something horrific.”
+
+When the defendant got Seneng Mujiasih back to his flat, where of course the rotting corpse of his first victim lay on the balcony inside a suitcase, Seneng Mujiasih noticed the monstrous gag that he had prepared for her. She screamed and shouted out very loudly when she realised the danger that she was in and a struggle began between the defendant and herself as she tried to escape. In fact, the defendant had prepared himself with a knife hidden under a cushion on the sofa.
+
+And, again, in words that he used to the police, he said, “I cut her and when she continued to struggle I continued to try and cut her more deeply.” And then he described how he held the knife while he was behind her and pulled it into her using his considerable weight to lever the knife against her throat. The autopsy report in the photographs revealed the massive wound to her neck - measured 28 centimetres, no less - and, as with the first victim, that wound was utterly grotesque.
+
+Both of the victims worked in the sex trade. The defendant for many years, both in Hong Kong and in other countries in the world, has used the services of sex workers on a regular basis and, to increase his pleasure, he would use cocaine.
+
+As I have said in earlier murder trials where sex workers have been killed, there is probably no section of society which is more at risk to violent assault or even death than sex workers who work on their own, and it is because such women are so vulnerable that the law has to pay particular regard to their protection. Unless the sanctions are very severe, others may be tempted to use violence on defenceless women in the trade.
+
+The defendant is the archetypal sexual predator. When he is affected by cocaine and alcohol, as he was in both of these murders, he represents an extreme danger to women, especially young women in the sex trade. He had, of course, cocaine and alcohol disorders. In addition, he had a sexual sadism disorder (or the traits of that disorder), also a narcissistic personality disorder (or the traits of that disorder), depending on which psychiatrist reports are to be relied upon.
+
+His mental troubles stem really from a combination of all those causes but, as the jury quite understandably found on the evidence presented to them in this trial, the defendant could and should have been able to exercise self-control - there was ample evidence to demonstrate this - but he chose not to do so.
+
+What the defendant actually did to the first victim and the almost unimaginable things he had planned to do to the second victim I have deliberately not repeated in these remarks. They are sickening in the extreme and beyond a normal person’s imagination.
+
+These things occurred at a time in the defendant’s life when he was so morally corrupted by pornography and drugs and alcohol and a general life of debauchery, with a huge salary to fund his deprivations. But, in the end, nothing short of a sadistic torturing of victims and killing of young women for the sheer enjoyment that it gave to himself could satisfy his sexual desires.
+
+This must rank as one the most horrifying murder cases ever to come before the courts in Hong Kong. There are insufficient superlatives to describe the sheer cruelty of what was done to Sumarti Ningsih and what he had in mind to do to Seneng Mujiasih.
+
+These things are almost beyond belief, particularly bearing in mind that the defendant had been given every possible material advantage in life, starting with a very well-off family background and good education, leading to a job and a salary which most people can only dream about, and let no one, no one at all, be fooled by the defendant’s superficial charm, for that is what it is.
+
+Furthermore, the defendant has shown not a shred of remorse for what he has done. I heard this afternoon a statement read out that he had read. It is the first mention of saying sorry about anything he had done and I do not accept it. The closest he has come to any remorse was that he told the police that he felt sorry for the victims’ family and he went on to say at one stage - not sure whether it was the monologues or to the police - that he was sorry that he had been unable to complete something at his workplace. His confessions, both on the iPhone and to the police, were more in the nature of a boast, as if he were proud of what he had done, and in his monologues he hints at wanting the world to know what he had done.
+
+Well, no sex worker will be safe if this defendant is free to indulge his cravings. He tries to put on a normal, pleasant front, and as the psychiatrists’ reports reveal, he prides himself in being able to conduct himself brilliantly at interviews. The psychiatrists say that he retains his sexual sadism traits and the narcissistic personality traits will also remain as part of his makeup. If he is allowed to be reunited with drugs and alcohol, he will once again pose a dreadful threat to girls in the sex trade.
+
+The defendant has been insistent from the moment he was first seen by police and throughout the time that he was at the police station that he wishes to be transferred to the United Kingdom to serve the inevitable jail sentence he must receive.
+
+The factors to which I have referred during these sentencing remarks, which I will in due course convey to the Chief Executive and others under the terms of the Criminal Procedure Ordinance, are so that if his transfer is granted the English authorities will know exactly the type of person they are having to deal with and the immense potential danger he poses if he is ever again to be given his liberty beyond the prison gates.
+
+Dr Chow, whose statement I have in front of me, in a passage which was excluded quite rightly from the jury’s attention because it did not have to do with the issue they were here to decide, said this in paragraph 76 of her original statement dated 17 October 2016, a few weeks ago:
+
+“Mr Jutting admitted that he still has sadistic fantasies in a controlled environment during his remand in prison. Given his escalating sadistic problem and underlying psychopathic and narcissistic personality traits, Mr Jutting is considered to be a high-risk person and is prone to commit sexual violence once he is exposed to the stimuli again.”
+
+And this is one of those rare cases, in my opinion, where a repetition of the offence of murder is highly likely if he ever gains his liberty in the future.
+
+Would you stand please? There is only one sentence, as you well know, for murder. Indeed, you commented to the police that you could not get any longer for two murders than you would for one, and, of course, for each offence, I pass a concurrent life term. Had this been in the UK, I would have commended the sentences to be a full life term. There is no such power in Hong Kong to do so. You will go to prison for life.
+
+(Discussion re Charge 3)
+
+I will pass a concurrent sentence of 3 years and 8 months.
+
+Information regarding to this page
+
+Look up this case on
+
+Lawcite
+
+Noteup",https://www.hklii.hk/en/cases/hkcfi/2016/1974,"
+
+{
+  ""crime"": {
+    ""caseid"": ""HCCC183/2015"",
+    ""case_datetime"": ""8 Nov, 2016"",
+    ""location"": ""Hong Kong Special Administrative Region"",
+    ""is_remote"": ""No"",
+    ""crime_datetime"": ""27 October 2014"",
+    ""weapon"": ""Hammer, nails, plastic ties, pliers, Stanley knife, sandpaper, a gag, ropes and a blow torch"",
+    ""more_killed"": ""Yes"",
+    ""more_wounded"": ""Yes"",
+    ""Evidence_collected"": ""iPhone recordings, autopsy report, photographs"",
+    ""type"": ""Murder, Preventing the lawful burial of a body""
+  }
+}",Good,"
+
+{
+  ""crime details"": {
+
+""timeline"":  ""from the verdict, the timeline of events of the crime is: the defendant used cocaine and alcohol to fuel his sadistic fantasies, which he then turned into reality; he took nearly five minutes killing his first victim; it took only about four days before the defendant went in search of a second victim; the defendant had equipped himself with a large number of instruments for torture; the defendant got Seneng Mujiasih back to his flat; a struggle began between the defendant and herself as she tried to escape; the defendant had prepared himself with a knife hidden under a cushion on the sofa; the defendant cut her and when she continued to struggle he continued to try and cut her more deeply; the defendant passed a concurrent sentence of 3 years and 8 months"", 
+""judge"": ""DHCJ Stuart-Moore""
+  }
+}",Good,"
+{
+  ""victim"": {
+  ""name"" : ""Sumarti Ningsih, Seneng Mujiasih"",
+  ""age"" : ""unknown"",
+  ""gender"" : ""female"",
+  ""origin"" : ""unknown"",
+  ""marital_status"": ""unknown"",
+  ""is_ill"": ""unknown"",
+  ""illness_indicators"": ""unknown"",
+  ""on_drugs"": ""unknown"",
+  ""drug_indicators"": ""unknown"",
+  ""is_related"": ""unknown"",
+  ""relationship"": ""unknown"",
+  ""any_employment"": ""unknown"",
+  ""employment_indications"": ""unknown""
+  }
+}",Good,"
+ 
+ {
+  ""suspect"": {
+  ""name"" : ""Jutting Rurik George Caton"",
+  ""age"" : ""200 kilogrammes"",
+  ""gender"" : ""male"",
+  ""origin"" : ""Hong Kong"",
+  ""marital_status"": ""unknown"",
+  ""is_ill"": ""unknown"",
+  ""illness_indicators"": [],
+  ""on_drugs"": ""yes"",
+  ""drug_indicators"": [""cocaine"", ""alcohol""],
+  ""on_alcohol"": ""yes"",
+  ""alcohol_indicators"": [""cocaine"", ""alcohol""],
+  ""employment"": ""unknown"",
+  ""employment_indicators"": [],
+  ""money_trouble"": ""unknown"",
+  ""money_trouble_indicators"": [],
+  ""has_prior_records"": ""unknown"",
+  ""details of prior criminal record"": """",
+  ""motive"": ""sexual sadism disorder"",
+  ""motive_indicator"": [""sexual sadism disorder"", ""narcissistic personality disorder""],
+  ""committed_su",Bad
